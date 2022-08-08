@@ -12,5 +12,5 @@ numbers = [3, 1, 4, 1, 5, 9, 2]
 # print(numbers[2:])
 
 #check if 9 is an element of numbers
-#print(9 in numbers)
+print(9 in numbers)
 
